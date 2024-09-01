@@ -11,10 +11,10 @@ This course contains lots of challenges for Machine Learning, each challenge is 
 
 |   Index | Name                                             | Difficulty   | Practice                                                                   |
 |---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
-|       1 | 🎯 Mastering Linear Regression                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
+|       1 | 🎯 Linear Regression                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
 |       2 | 🎯 Understanding Metrics and Scoring              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185172'>Start Challenge</a> |
 |       3 | 🎯 Clustering and Insights                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/198286'>Start Challenge</a> |
-|       4 | 🎯 Mastering naive bayes                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250427'>Start Challenge</a> |
+|       4 | 🎯 Naive Bayes Classification                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250427'>Start Challenge</a> |
 |       5 | 🎯 Predicting Flower Types with Nearest Neighbors | ★☆☆          | <a target='_blank' href='https://labex.io/labs/256147'>Start Challenge</a> |
 
 ## More
