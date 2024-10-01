@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                              |
-|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | Practice                                                                                                                              |
+|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 🎯 Linear Regression                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-linear-regression-185171'>Start Challenge</a>                              |
 |       2 | 🎯 Understanding Metrics and Scoring              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-understanding-metrics-and-scoring-185172'>Start Challenge</a>              |
 |       3 | 🎯 Clustering and Insights                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-clustering-and-insights-198286'>Start Challenge</a>                        |
