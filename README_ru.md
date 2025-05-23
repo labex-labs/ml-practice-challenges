@@ -31,15 +31,15 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                                 | Сложность   | Практика                                                                                                                              |
 |----------|----------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Линейная регрессия                                    | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-linear-regression-185171'>Начать Испытание</a>                               |
-|        2 | 🎯 Понимание метрик и оценки                             | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-understanding-metrics-and-scoring-185172'>Начать Испытание</a>               |
-|        3 | 🎯 Кластеризация и инсайты                               | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-clustering-and-insights-198286'>Начать Испытание</a>                         |
-|        4 | 🎯 Классификация наивным Байесом                         | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/python-naive-bayes-classification-250427'>Начать Испытание</a>                      |
-|        5 | 🎯 Предсказание типов цветов с использованием ближайш... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Начать Испытание</a> |
+|        1 | 🎯 Линейная регрессия                                    | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-linear-regression-185171'>Начать Испытание</a>                               |
+|        2 | 🎯 Понимание метрик и оценки                             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-understanding-metrics-and-scoring-185172'>Начать Испытание</a>               |
+|        3 | 🎯 Кластеризация и инсайты                               | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-clustering-and-insights-198286'>Начать Испытание</a>                         |
+|        4 | 🎯 Классификация наивным Байесом                         | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-naive-bayes-classification-250427'>Начать Испытание</a>                      |
+|        5 | 🎯 Предсказание типов цветов с использованием ближайш... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Начать Испытание</a> |
 
 ## Больше
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Бесплатные туториалы](https://github.com/labex-labs/ml-free-tutorials)
 
