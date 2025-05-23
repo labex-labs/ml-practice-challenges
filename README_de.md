@@ -31,15 +31,15 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                               | Schwierigkeit   | Übung                                                                                                                                  |
 |---------|----------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 🎯 Lineare Regression                              | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/python-linear-regression-185171'>Challenge Starten</a>                               |
-|       2 | 🎯 Das Verständnis von Metriken und Bewertungen    | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/python-understanding-metrics-and-scoring-185172'>Challenge Starten</a>               |
-|       3 | 🎯 Clustering und Einsichten                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/python-clustering-and-insights-198286'>Challenge Starten</a>                         |
-|       4 | 🎯 Naive Bayes Klassifikation                      | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/python-naive-bayes-classification-250427'>Challenge Starten</a>                      |
-|       5 | 🎯 Blumenarten mit k-nearest neighbors vorhersagen | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Challenge Starten</a> |
+|       1 | 🎯 Lineare Regression                              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-linear-regression-185171'>Challenge Starten</a>                               |
+|       2 | 🎯 Das Verständnis von Metriken und Bewertungen    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-understanding-metrics-and-scoring-185172'>Challenge Starten</a>               |
+|       3 | 🎯 Clustering und Einsichten                       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-clustering-and-insights-198286'>Challenge Starten</a>                         |
+|       4 | 🎯 Naive Bayes Klassifikation                      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/python-naive-bayes-classification-250427'>Challenge Starten</a>                      |
+|       5 | 🎯 Blumenarten mit k-nearest neighbors vorhersagen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Challenge Starten</a> |
 
 ## Mehr
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Kostenlose Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
