@@ -31,15 +31,15 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Índice | Nome                                              | Dificuldade   | Prática                                                                                                                              |
 |----------|---------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Linear Regression                              | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-linear-regression-185171'>Iniciar Desafio</a>                               |
-|        2 | 🎯 Understanding Metrics and Scoring              | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafio</a>               |
-|        3 | 🎯 Clustering and Insights                        | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-clustering-and-insights-198286'>Iniciar Desafio</a>                         |
-|        4 | 🎯 Naive Bayes Classification                     | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-naive-bayes-classification-250427'>Iniciar Desafio</a>                      |
-|        5 | 🎯 Predicting Flower Types with Nearest Neighbors | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafio</a> |
+|        1 | 🎯 Linear Regression                              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-linear-regression-185171'>Iniciar Desafio</a>                               |
+|        2 | 🎯 Understanding Metrics and Scoring              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafio</a>               |
+|        3 | 🎯 Clustering and Insights                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-clustering-and-insights-198286'>Iniciar Desafio</a>                         |
+|        4 | 🎯 Naive Bayes Classification                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-naive-bayes-classification-250427'>Iniciar Desafio</a>                      |
+|        5 | 🎯 Predicting Flower Types with Nearest Neighbors | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafio</a> |
 
 ## Mais
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Tutoriais Gratuitos](https://github.com/labex-labs/ml-free-tutorials)
 
