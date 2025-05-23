@@ -25,21 +25,21 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                           | 难度   | 练习                                                                                                                          |
 |--------|--------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------|
-|      1 | 🎯 线性回归                    | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-linear-regression-185171'>开始挑战</a>                               |
-|      2 | 🎯 理解指标与评分              | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-understanding-metrics-and-scoring-185172'>开始挑战</a>               |
-|      3 | 🎯 聚类与洞察                  | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-clustering-and-insights-198286'>开始挑战</a>                         |
-|      4 | 🎯 朴素贝叶斯分类              | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-naive-bayes-classification-250427'>开始挑战</a>                      |
-|      5 | 🎯 使用 k-近邻算法预测花卉类型 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>开始挑战</a> |
+|      1 | 🎯 线性回归                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-linear-regression-185171'>开始挑战</a>                               |
+|      2 | 🎯 理解指标与评分              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-understanding-metrics-and-scoring-185172'>开始挑战</a>               |
+|      3 | 🎯 聚类与洞察                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-clustering-and-insights-198286'>开始挑战</a>                         |
+|      4 | 🎯 朴素贝叶斯分类              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-naive-bayes-classification-250427'>开始挑战</a>                      |
+|      5 | 🎯 使用 k-近邻算法预测花卉类型 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>开始挑战</a> |
 
 ## 更多
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 免费教程](https://github.com/labex-labs/ml-free-tutorials)
 
