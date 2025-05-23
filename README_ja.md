@@ -31,15 +31,15 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                            | 難易度   | 練習                                                                                                                                  |
 |----------------|---------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 🎯 線形回帰                     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-linear-regression-185171'>チャレンジを開始</a>                               |
-|              2 | 🎯 メトリックスと評価の理解     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-understanding-metrics-and-scoring-185172'>チャレンジを開始</a>               |
-|              3 | 🎯 クラスタリングと洞察         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-clustering-and-insights-198286'>チャレンジを開始</a>                         |
-|              4 | 🎯 ナイーブベイズ分類           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/python-naive-bayes-classification-250427'>チャレンジを開始</a>                      |
-|              5 | 🎯 近傍法を用いた花の種類の予測 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>チャレンジを開始</a> |
+|              1 | 🎯 線形回帰                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-linear-regression-185171'>チャレンジを開始</a>                               |
+|              2 | 🎯 メトリックスと評価の理解     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-understanding-metrics-and-scoring-185172'>チャレンジを開始</a>               |
+|              3 | 🎯 クラスタリングと洞察         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-clustering-and-insights-198286'>チャレンジを開始</a>                         |
+|              4 | 🎯 ナイーブベイズ分類           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-naive-bayes-classification-250427'>チャレンジを開始</a>                      |
+|              5 | 🎯 近傍法を用いた花の種類の予測 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>チャレンジを開始</a> |
 
 ## その他
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 無料チュートリアル](https://github.com/labex-labs/ml-free-tutorials)
 
