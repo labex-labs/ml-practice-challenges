@@ -13,6 +13,16 @@ Este curso contiene muchos desafíos de Aprendizaje Automático. Cada desafío e
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                             |
+|----------|-------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🎯 🔵 Regresión Lineal                                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-linear-regression-185171'>Iniciar Desafío</a>                               |
+|        2 | 🎯 🔵 Comprender Métricas y Puntuación                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafío</a>               |
+|        3 | 🎯 🔵 Agrupamiento e Insights                               | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-clustering-and-insights-198286'>Iniciar Desafío</a>                         |
+|        4 | 🎯 🔵 Clasificación de Bayes ingenuo                        | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-naive-bayes-classification-250427'>Iniciar Desafío</a>                      |
+|        5 | 🎯 🔵 Predecir los Tipos de Flores con Vecinos Más Cerca... | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafío</a> |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -23,19 +33,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                             |
-|----------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Regresión Lineal                                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-linear-regression-185171'>Iniciar Desafío</a>                               |
-|        2 | 🎯 Comprender Métricas y Puntuación                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafío</a>               |
-|        3 | 🎯 Agrupamiento e Insights                               | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-clustering-and-insights-198286'>Iniciar Desafío</a>                         |
-|        4 | 🎯 Clasificación de Bayes ingenuo                        | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-naive-bayes-classification-250427'>Iniciar Desafío</a>                      |
-|        5 | 🎯 Predecir los Tipos de Flores con Vecinos Más Cerca... | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafío</a> |
 
 ## Más
 
