@@ -13,6 +13,16 @@ Este curso contém diversos desafios de Machine Learning. Cada desafio é um peq
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## Exercícios
+
+|   Índice | Nome                                                 | Dificuldade   | Prática                                                                                                                              |
+|----------|------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🎯 🔵 Linear Regression                              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-linear-regression-185171'>Iniciar Desafio</a>                               |
+|        2 | 🎯 🔵 Understanding Metrics and Scoring              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafio</a>               |
+|        3 | 🎯 🔵 Clustering and Insights                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-clustering-and-insights-198286'>Iniciar Desafio</a>                         |
+|        4 | 🎯 🔵 Naive Bayes Classification                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-naive-bayes-classification-250427'>Iniciar Desafio</a>                      |
+|        5 | 🎯 🔵 Predicting Flower Types with Nearest Neighbors | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafio</a> |
+
 ## Ambiente
 
 LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
@@ -23,19 +33,9 @@ LabEx é uma plataforma de aprendizagem interativa e prática dedicada à progra
 - Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
 - Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
 - Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
+- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercícios
-
-|   Índice | Nome                                              | Dificuldade   | Prática                                                                                                                              |
-|----------|---------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 Linear Regression                              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-linear-regression-185171'>Iniciar Desafio</a>                               |
-|        2 | 🎯 Understanding Metrics and Scoring              | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafio</a>               |
-|        3 | 🎯 Clustering and Insights                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-clustering-and-insights-198286'>Iniciar Desafio</a>                         |
-|        4 | 🎯 Naive Bayes Classification                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-naive-bayes-classification-250427'>Iniciar Desafio</a>                      |
-|        5 | 🎯 Predicting Flower Types with Nearest Neighbors | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafio</a> |
 
 ## Mais
 
